@@ -1,0 +1,802 @@
+[
+      {
+            "Rank": "1",
+            "Name": "Walmart",
+            "Employee": "2,200,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WMT.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "2",
+            "Name": "Amazon",
+            "Employee": "1,271,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/AMZN.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "3",
+            "Name": "Volkswagen",
+            "Employee": "662,653",
+            "National": "Germany",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/VOW3.DE.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "4",
+            "Name": "FedEx",
+            "Employee": "570,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/FDX.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "5",
+            "Name": "Deutsche Post",
+            "Employee": "565,053",
+            "National": "Germany",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/DPW.DE.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "6",
+            "Name": "Compass Group",
+            "Employee": "548,143",
+            "National": "UK",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CMPGF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "7",
+            "Name": "United Parcel Service",
+            "Employee": "540,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/UPS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "8",
+            "Name": "Accenture",
+            "Employee": "537,000",
+            "National": "Ireland",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ACN.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "9",
+            "Name": "Kroger",
+            "Employee": "500,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/KR.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "10",
+            "Name": "Home Depot",
+            "Employee": "500,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HD.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "11",
+            "Name": "Tata Consultancy Services",
+            "Employee": "488,649",
+            "National": "India",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TCS.NS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "12",
+            "Name": "Gazprom",
+            "Employee": "477,600",
+            "National": "Russia",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/OGZPY.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "13",
+            "Name": "Agricultural Bank of China",
+            "Employee": "459,000",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ACGBY.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "14",
+            "Name": "China Mobile",
+            "Employee": "454,332",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/0941.HK.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "15",
+            "Name": "ICBC",
+            "Employee": "439,787",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1398.HK.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "16",
+            "Name": "PetroChina",
+            "Employee": "432,003",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/PTR.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "17",
+            "Name": "Ahold Delhaize",
+            "Employee": "410,000",
+            "National": "Netherlands",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/AHODF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "18",
+            "Name": "Target",
+            "Employee": "409,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TGT.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "19",
+            "Name": "Jardine Matheson",
+            "Employee": "403,000",
+            "National": "Hong",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/JARLF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "20",
+            "Name": "Yum China",
+            "Employee": "400,000",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/YUMC.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "21",
+            "Name": "Sinopec",
+            "Employee": "384,065",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SNP.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "22",
+            "Name": "Teleperformance",
+            "Employee": "383,000",
+            "National": "France",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TLPFF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "23",
+            "Name": "Toyota",
+            "Employee": "366,283",
+            "National": "Japan",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TM.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "24",
+            "Name": "Ping An Insurance",
+            "Employee": "362,035",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/PNGAY.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "25",
+            "Name": "Berkshire Hathaway",
+            "Employee": "360,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BRK-A.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "26",
+            "Name": "Hitachi",
+            "Employee": "350,864",
+            "National": "Japan",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HTHIF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "27",
+            "Name": "Starbucks",
+            "Employee": "349,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SBUX.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "28",
+            "Name": "China Construction Bank",
+            "Employee": "347,156",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CICHY.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "29",
+            "Name": "IBM",
+            "Employee": "345,900",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/IBM.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "30",
+            "Name": "X5 Retail Group",
+            "Employee": "339,716",
+            "National": "Netherlands",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/PJP.F.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "31",
+            "Name": "UnitedHealth",
+            "Employee": "330,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/UNH.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "32",
+            "Name": "TJX Companies",
+            "Employee": "320,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TJX.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "33",
+            "Name": "Fomento Econ\u00f3mico Mexicano",
+            "Employee": "313,693",
+            "National": "Mexico",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/FMX.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "34",
+            "Name": "Fresenius",
+            "Employee": "310,842",
+            "National": "Germany",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/FRE.DE.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "35",
+            "Name": "Jingdong Mall",
+            "Employee": "310,000",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/JD.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "36",
+            "Name": "Bank of China",
+            "Employee": "309,084",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BACHF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "37",
+            "Name": "Sodexo",
+            "Employee": "308,580",
+            "National": "France",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SW.PA.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "38",
+            "Name": "Albertsons",
+            "Employee": "300,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ACI.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "39",
+            "Name": "Tesco",
+            "Employee": "300,000",
+            "National": "UK",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TSCDF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "40",
+            "Name": "Lowe's Companies",
+            "Employee": "300,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LOW.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "41",
+            "Name": "Cognizant Technology Solutions",
+            "Employee": "296,500",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CTSH.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "42",
+            "Name": "Siemens",
+            "Employee": "293,000",
+            "National": "Germany",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SIEGY.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "43",
+            "Name": "Pepsico",
+            "Employee": "291,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/PEP.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "44",
+            "Name": "China Railway Group",
+            "Employee": "288,729",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/0390.HK.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "45",
+            "Name": "China Railway Construction",
+            "Employee": "286,242",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/601186.SS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "46",
+            "Name": "Sberbank",
+            "Employee": "278,165",
+            "National": "Russia",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SBRCY.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "47",
+            "Name": "China Telecom",
+            "Employee": "274,172",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/0728.HK.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "48",
+            "Name": "Nestl\u00e9",
+            "Employee": "273,000",
+            "National": "Switzerland",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NSRGY.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "49",
+            "Name": "Synnex",
+            "Employee": "270,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SNX.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "50",
+            "Name": "Capgemini",
+            "Employee": "269,769",
+            "National": "France",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CAPMF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "51",
+            "Name": "Wells Fargo",
+            "Employee": "264,513",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WFC.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "52",
+            "Name": "Exor",
+            "Employee": "263,284",
+            "National": "Netherlands",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/EYX.F.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "53",
+            "Name": "Jabil",
+            "Employee": "260,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/JBL.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "54",
+            "Name": "Infosys",
+            "Employee": "259,619",
+            "National": "India",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/INFY.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "55",
+            "Name": "JPMorgan Chase",
+            "Employee": "259,350",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/JPM.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "56",
+            "Name": "Mahindra & Mahindra",
+            "Employee": "256,000",
+            "National": "India",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/M&M.NS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "57",
+            "Name": "Alibaba",
+            "Employee": "251,462",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BABA.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "58",
+            "Name": "JBS",
+            "Employee": "250,000",
+            "National": "Brazil",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/JBSS3.SA.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "59",
+            "Name": "State Bank of India",
+            "Employee": "245,652",
+            "National": "India",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SBIN.NS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "60",
+            "Name": "China Unicom",
+            "Employee": "243,790",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/0762.HK.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "61",
+            "Name": "Panasonic",
+            "Employee": "243,540",
+            "National": "Japan",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/6752.T.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "62",
+            "Name": "Jardine Cycle & Carriage",
+            "Employee": "240,000",
+            "National": "Singapore",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/C07.SI.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "63",
+            "Name": "Reliance Industries",
+            "Employee": "236,334",
+            "National": "India",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/RELIANCE.NS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "64",
+            "Name": "Continental",
+            "Employee": "234,999",
+            "National": "Germany",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CON.DE.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "65",
+            "Name": "Carrefour",
+            "Employee": "234,858",
+            "National": "France",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CRERF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "66",
+            "Name": "Walmex",
+            "Employee": "230,100",
+            "National": "Mexico",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WMMVF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "67",
+            "Name": "AT&T",
+            "Employee": "228,470",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/T.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "68",
+            "Name": "George Weston",
+            "Employee": "226,299",
+            "National": "Canada",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WN.TO.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "69",
+            "Name": "HSBC",
+            "Employee": "224,652",
+            "National": "UK",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HSBC.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "70",
+            "Name": "Deutsche Telekom",
+            "Employee": "224,385",
+            "National": "Germany",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/DTE.DE.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "71",
+            "Name": "BYD",
+            "Employee": "224,280",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/002594.SZ.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "72",
+            "Name": "Walgreens Boots Alliance",
+            "Employee": "223,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WBA.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "73",
+            "Name": "Vinci",
+            "Employee": "219,400",
+            "National": "France",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/DG.PA.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "74",
+            "Name": "Woolworths Group",
+            "Employee": "215,000",
+            "National": "Australia",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WOW.AX.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "75",
+            "Name": "CVS Health",
+            "Employee": "213,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CVS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "76",
+            "Name": "Bank of America",
+            "Employee": "212,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BAC.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "77",
+            "Name": "Honda",
+            "Employee": "211,374",
+            "National": "Japan",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HMC.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "78",
+            "Name": "Citigroup",
+            "Employee": "211,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/C.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "79",
+            "Name": "SAIC Motor",
+            "Employee": "204,815",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/600104.SS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "80",
+            "Name": "Stellantis",
+            "Employee": "204,000",
+            "National": "Netherlands",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/STLA.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "81",
+            "Name": "Casino Guichard-Perrachon",
+            "Employee": "202,955",
+            "National": "France",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CO.PA.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "82",
+            "Name": "Wipro",
+            "Employee": "200,000",
+            "National": "India",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WIT.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "83",
+            "Name": "McDonald",
+            "Employee": "200,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MCD.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "84",
+            "Name": "Foxconn Industrial Internet",
+            "Employee": "196,159",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/601138.SS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "85",
+            "Name": "HCA Healthcare",
+            "Employee": "195,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HCA.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "86",
+            "Name": "People\u2019s Insurance Company of China",
+            "Employee": "193,494",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1339.HK.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "87",
+            "Name": "BNP Paribas",
+            "Employee": "193,000",
+            "National": "France",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BNPQF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "88",
+            "Name": "Santander",
+            "Employee": "190,175",
+            "National": "Spain",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SAN.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "89",
+            "Name": "Loblaws",
+            "Employee": "190,000",
+            "National": "Canada",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/L.TO.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "90",
+            "Name": "Ford",
+            "Employee": "186,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/F.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "91",
+            "Name": "America Movil",
+            "Employee": "184,100",
+            "National": "Mexico",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/AMX.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "92",
+            "Name": "Canon",
+            "Employee": "181,897",
+            "National": "Japan",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CAJ.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "93",
+            "Name": "Grupo ACS",
+            "Employee": "181,699",
+            "National": "Spain",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ACS.MC.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "94",
+            "Name": "Raytheon Technologies",
+            "Employee": "181,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/RTX.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "95",
+            "Name": "Darden Restaurants",
+            "Employee": "177,895",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/DRI.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "96",
+            "Name": "Postal Savings Bank of China",
+            "Employee": "177,797",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/601658.SS.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "97",
+            "Name": "Royal Mail",
+            "Employee": "177,047",
+            "National": "UK",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ROYMF.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "98",
+            "Name": "Lear Corporation",
+            "Employee": "174,600",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LEA.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "99",
+            "Name": "General Electric",
+            "Employee": "174,000",
+            "National": "USA",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/GE.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      },
+      {
+            "Rank": "100",
+            "Name": "Luxshare Precision",
+            "Employee": "172,410",
+            "National": "China",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/002475.SZ.webp",
+            "waktu_scraping": "2022-03-18 pukul 23:38:43"
+      }
+]

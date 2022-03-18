@@ -1,0 +1,48 @@
+<html>
+	<head>
+		<title>Hasil Web Scrapping</title>
+        <!--Import library jquery-->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	</head>
+	<body>
+        <h1>Top Public Companies by Employees</h1>
+        <div id="hasilscraping_json"></div>
+        
+    <style>h1 {text-align: center;}
+            table {align: center;}
+            table {
+                font-size: 16px;
+                border-collapse: collapse;
+                width: 100%;
+              }
+              
+              th, td {
+                text-align: center;
+                padding: 5px;
+              }
+              
+              tr:nth-child(even) {
+                background-color: #c4c3b5;
+              }
+        </style>
+	</body>
+    <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('hasilscraping.json',function(obj){
+                var str = "<table border=1>";
+                str +="<tr><td class='tables'>Rank</td><td class='tables'>Image</td><td class='tables'>Name</td><td class='tables'>Employee</td><td class='tables'>National</td><td class='tables'>Waktu Scraping</td></tr>";
+                $.each(obj,function(n,data){
+                    str +="<td>" + data.Rank + "</td>";
+                    str +='<td><img src= "' + data.Image + '"></td>';
+                    str +="<td class='tables'>" + data.Name + "</td>";
+                    str +="<td class='tables'>" + data.Employee + "</td>";
+                    str +="<td class='tables'>" + data.National + "</td>";
+                    str +="<td class='tables'>" + data.waktu_scraping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#hasilscraping_json').html(str);
+            });
+        });
+    </script>
+</html>
